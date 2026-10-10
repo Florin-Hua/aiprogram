@@ -2,7 +2,7 @@
 
 > 项目：自研 Mini Agent 框架（大四实习个人 Agent 项目）
 > 主目录：`D:\SuperAgentHua\`（git 仓库根目录，main 分支）
-> 远程仓库：<https://github.com/Florin-Hua/huayuan>
+> 远程仓库：<https://github.com/Florin-Hua/aiprogram>
 > 当前版本：MiniAgent 0.9.0
 > 目标：不依赖重型 Agent 框架，从 0 实现 ReAct 循环、工具系统、多模型适配、上下文压缩、记忆、健壮性、MCP 兼容、评测闭环与本地可视化控制台
 
@@ -134,6 +134,6 @@ COMPILE_OK
 ## Git 状态说明
 
 - 本地分支：`main`
-- 远程：`origin` → <https://github.com/Florin-Hua/huayuan>
+- 远程：`origin` → <https://github.com/Florin-Hua/aiprogram>
 - 第7阶段提交 `cb6925d` 当时因 GitHub 网络连接失败未能推送；
 - 第8阶段完成后已重试推送，实际结果以最终终端输出为准，本仓库不伪造推送状态。
